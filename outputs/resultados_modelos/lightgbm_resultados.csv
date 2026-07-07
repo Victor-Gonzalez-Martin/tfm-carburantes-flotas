@@ -1,0 +1,13 @@
+modelo,nombre,n_observaciones,mae_cts,rmse_cts,mape_pct
+lightgbm,LightGBM · GASOLEO_A · pre shock · train,6996238,0.15,0.279,0.106
+lightgbm,LightGBM · GASOLEO_A · pre shock · val,1017945,0.249,0.395,0.182
+lightgbm,LightGBM · GASOLEO_A · pre shock · test,651949,0.456,0.57,0.33
+lightgbm,LightGBM · GASOLEO_A · post shock · train,687425,0.553,0.907,0.322
+lightgbm,LightGBM · GASOLEO_A · post shock · val,269279,2.452,2.731,1.434
+lightgbm,LightGBM · GASOLEO_A · post shock · test,236037,6.639,7.089,4.093
+lightgbm,LightGBM · GASOLINA_95 · pre shock · train,6759112,0.269,0.508,0.177
+lightgbm,LightGBM · GASOLINA_95 · pre shock · val,985129,0.534,0.796,0.371
+lightgbm,LightGBM · GASOLINA_95 · pre shock · test,631170,0.872,1.123,0.607
+lightgbm,LightGBM · GASOLINA_95 · post shock · train,664995,0.474,0.784,0.301
+lightgbm,LightGBM · GASOLINA_95 · post shock · val,260617,0.411,0.644,0.264
+lightgbm,LightGBM · GASOLINA_95 · post shock · test,228394,0.402,0.616,0.267

@@ -1,0 +1,5 @@
+Flota,Vehículos,Tipo,Litros/mes,Ahorro/operación (€),Operaciones/mes,Ahorro mensual (€),Ahorro anual (€),Gasto mensual combustible (€),% ahorro sobre combustible
+Mensajería urbana (Vallecas),30,Furgonetas (10 L/100km),11000,11.4,220,2509,30107,17050.0,14.7
+Interurbano (Coslada),15,Camiones rígidos (28 L/100km),49500,48.98,330,16164,193973,76725.0,21.1
+Largo recorrido (3 rutas RTE-T),8,Tráileres articulados (35 L/100km),48000,50.79,120,6356,76276,74400.0,8.5
+TOTAL (3 flotas combinadas),53,—,108500,37.056666666666665,670,25029,300356,168175.0,14.9
